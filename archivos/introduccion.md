@@ -8,4 +8,4 @@ A lo largo de este proyecto, trabajaremos de la mano de nuestros equipos de desa
 
 Un viaje emocionante comienza hoy, y esperamos con entusiasmo los beneficios que esta transformación traerá a nuestra organización y a nuestros clientes.
 
- !(devops)[/img/devops2.jpg]
+ ![devops](/img/devops2.jpg)
